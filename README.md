@@ -1,2 +1,106 @@
-# ludo-blaze-privacy
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Privacy Policy — Ludo Blaze</title>
+<style>
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; background: #0f0c29; color: #e0e0e0; line-height: 1.7; }
+  h1 { color: #FF6B35; border-bottom: 2px solid #FF6B35; padding-bottom: 10px; }
+  h2 { color: #FFD700; margin-top: 30px; }
+  h3 { color: #FF8C42; }
+  a { color: #4FC3F7; }
+  .date { color: #999; font-size: 14px; }
+  ul { padding-left: 20px; }
+  li { margin-bottom: 8px; }
+  .highlight { background: rgba(255,107,53,0.1); border-left: 3px solid #FF6B35; padding: 12px 16px; margin: 16px 0; border-radius: 4px; }
+</style>
+</head>
+<body>
+
+<h1>🎲 Ludo Blaze — Privacy Policy</h1>
+<p class="date">Effective Date: April 16, 2026 &nbsp;|&nbsp; Last Updated: April 16, 2026</p>
+
+<p>Welcome to <strong>Ludo Blaze</strong> ("the App", "we", "us", "our"). This Privacy Policy explains how we collect, use, and protect your information when you use our mobile application.</p>
+
+<div class="highlight">
+<strong>Summary:</strong> We collect minimal data needed to run the game — anonymous accounts, game stats, and chat messages. We use Google AdMob for ads. We never sell your personal data.
+</div>
+
+<h2>1. Information We Collect</h2>
+
+<h3>a) Account Information</h3>
+<p>When you first open the app, we create an <strong>anonymous Firebase account</strong> automatically. This does not require your email, phone number, or any personal identification.</p>
+<p>You may optionally <strong>link your account with Google Sign-In</strong> to protect your progress. When you do, we receive your Google display name, email address, and profile photo. This allows you to restore your account if you uninstall the app or switch devices.</p>
+
+<h3>b) Profile Information (Optional)</h3>
+<p>You may choose to set a display name, avatar color, and country. This information is stored to personalize your experience and is visible to other players during online games.</p>
+
+<h3>c) Game Data</h3>
+<p>We collect gameplay statistics including wins, losses, games played, scores, and XP/level progression. This data is used to power leaderboards, matchmaking, and your profile.</p>
+
+<h3>d) Chat & Social Data</h3>
+<p>When you use in-game chat or the buddy/friend system, your messages, friend requests, and buddy list are stored in our database. Chat messages are visible only to participants.</p>
+
+<h3>e) Device & Usage Information</h3>
+<p>We may collect basic device information such as device type, operating system version, and app version for crash reporting and performance monitoring.</p>
+
+<h3>f) Advertising Data</h3>
+<p>Our app uses <strong>Google AdMob</strong> to display advertisements. Google may collect and use data including your advertising ID, IP address, and device information to serve personalized ads. You can opt out of personalized ads in your device settings.</p>
+
+<h2>2. How We Use Your Information</h2>
+<ul>
+  <li><strong>Gameplay:</strong> To provide matchmaking, leaderboards, and game functionality</li>
+  <li><strong>Social Features:</strong> To enable the buddy system, friend requests, and in-game chat</li>
+  <li><strong>Monetization:</strong> To display ads via Google AdMob</li>
+  <li><strong>Improvement:</strong> To fix bugs, improve performance, and develop new features</li>
+  <li><strong>Safety:</strong> To prevent cheating, abuse, and enforce our terms of service</li>
+</ul>
+
+<h2>3. Data Storage & Security</h2>
+<p>Your data is stored securely using <strong>Google Firebase</strong> (Cloud Firestore and Firebase Authentication). All data transmission is encrypted using HTTPS/TLS. We implement industry-standard security measures to protect your information.</p>
+
+<h2>4. Third-Party Services</h2>
+<p>We use the following third-party services that may collect data:</p>
+<ul>
+  <li><strong>Google Firebase</strong> — Authentication, database, analytics (<a href="https://firebase.google.com/support/privacy">Firebase Privacy</a>)</li>
+  <li><strong>Google Sign-In</strong> — Optional account linking for progress recovery (<a href="https://policies.google.com/privacy">Google Privacy Policy</a>)</li>
+  <li><strong>Google AdMob</strong> — Advertising (<a href="https://policies.google.com/privacy">Google Privacy Policy</a>)</li>
+  <li><strong>Agora.io</strong> — Voice chat functionality (<a href="https://www.agora.io/en/privacy-policy/">Agora Privacy</a>)</li>
+</ul>
+
+<h2>5. Children's Privacy</h2>
+<p>Ludo Blaze is a board game suitable for all ages. We do not knowingly collect personal information from children under 13. If you believe a child has provided us with personal data, please contact us and we will delete it promptly.</p>
+
+<h2>6. Data Sharing</h2>
+<div class="highlight">
+<strong>We do NOT sell your personal data.</strong> We only share data with the third-party services listed above, which are essential for the app to function (authentication, ads, voice chat).
+</div>
+<p>Your display name, avatar, and game stats may be visible to other players through leaderboards and during online matches. If you link your Google account, your Google display name and profile photo may be used as your in-game identity.</p>
+
+<h2>7. Your Rights</h2>
+<p>You have the right to:</p>
+<ul>
+  <li><strong>Access</strong> your data by viewing your in-app profile</li>
+  <li><strong>Delete</strong> your account and associated data by contacting us</li>
+  <li><strong>Unlink</strong> your Google account at any time through your device's Google account settings</li>
+  <li><strong>Opt out</strong> of personalized ads via your device's advertising settings</li>
+  <li><strong>Disable</strong> voice chat and in-game chat at any time</li>
+</ul>
+
+<h2>8. Data Retention</h2>
+<p>We retain your game data for as long as your account is active. If you request account deletion, we will remove your data within 30 days, except where retention is required by law.</p>
+
+<h2>9. Changes to This Policy</h2>
+<p>We may update this Privacy Policy from time to time. We will notify you of significant changes through the app. Your continued use of the app after changes constitutes acceptance of the updated policy.</p>
+
+<h2>10. Contact Us</h2>
+<p>If you have questions or concerns about this Privacy Policy or your data, please contact us at:</p>
+<p>📧 <strong>ludoblaze.app@gmail.com</strong></p>
+
+<hr style="border-color: #333; margin-top: 40px;">
+<p style="color: #666; font-size: 12px; text-align: center;">© 2026 Ludo Blaze. All rights reserved.</p>
+
+</body>
+</html># ludo-blaze-privacy
 Privacy Policy for Ludo Blaze
